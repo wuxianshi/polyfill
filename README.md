@@ -1,3 +1,0 @@
-# Polyfill
-
-Some JavaScript polyfills.
