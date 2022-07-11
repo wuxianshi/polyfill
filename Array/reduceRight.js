@@ -23,6 +23,3 @@
   }
   return initialValue;
 }
-
-let result = [1].myReduceRight((x, y) => x - y, 10);
-console.log(result);
